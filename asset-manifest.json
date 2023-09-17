@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TakeNotes/static/js/main.5261fce0.js",
+    "index.html": "/TakeNotes/index.html",
+    "main.5261fce0.js.map": "/TakeNotes/static/js/main.5261fce0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5261fce0.js"
+  ]
+}
